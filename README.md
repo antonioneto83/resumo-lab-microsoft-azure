@@ -9,3 +9,12 @@ o modelo hibrido utiliza os dois modelos anteriores em conjunto.
 
 O modelo baseado em consumo, é como o proprio nome diz, cobrado pelo consumo de recursos alocados para o serviço
 
+Beneficios da Nuvem: Alta disponibilidade
+                    Escalabilidade
+                    Elasticidade
+                    Confiabilidade
+                    Previsibilidade
+                    Segurança
+                    Governança
+                    Gerenciabilidade (portal web, interface de linha de comando, APIs, Power Shell)
+                    
